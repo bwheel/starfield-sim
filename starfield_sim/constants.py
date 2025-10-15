@@ -1,0 +1,11 @@
+BACKGROUND_COLOR = "#0B032D"
+STAR_COLORS = [
+    "#FFB997",
+    "#F67E7D",
+    "#843B62",
+    "#F2EDEB",
+    "#FABC2A",
+    "#F05365"
+]
+SPEED_MAX = 2500
+SPEED_MIN = 50
